@@ -25,5 +25,7 @@
 		}	
 		echo "Olá <b>$nome</b>, sua massa corporal é: <b> $massa </b><br>";
 		echo "Você está <b> $mensagem </b>";
+	}else{
+		echo "Digite seu peso e sua altura!";
 	}
 ?>

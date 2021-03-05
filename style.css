@@ -1,5 +1,8 @@
+		body{
+			background-color: lightgrey;
+		}
 		.content{
-		text-align: center;
+		text-align: center;	
 		margin: 0 auto;
 		width: 100%;
 		}
@@ -10,10 +13,11 @@
 			color: red;
 		}
 		.form{
-			background-color: grey;
+			
 			color: black;
 			font-family: sans-serif;
 			text-align: center;
+			font-weight: bold;
 		}
 		.rodape{
 			color: blue;
