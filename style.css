@@ -1,0 +1,23 @@
+		.content{
+		text-align: center;
+		margin: 0 auto;
+		width: 100%;
+		}
+
+		.titulo{
+			text-align: center;
+			
+			color: red;
+		}
+		.form{
+			background-color: grey;
+			color: black;
+			font-family: sans-serif;
+			text-align: center;
+		}
+		.rodape{
+			color: blue;
+			font-family: sans-serif;
+			text-align: right;
+		}
+
